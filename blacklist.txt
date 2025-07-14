@@ -1,0 +1,7 @@
+.mailin.fr.
+.cloudflaressl.com.
+.amazonaws.com.
+.github.io.
+.github.com.
+.google.com.
+.amazon.com.
